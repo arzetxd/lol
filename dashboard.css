@@ -1,0 +1,35 @@
+body, html {
+    background: #6f1859;    /*COLOR DE FONDO LOGIN*/
+   
+}
+.btn, .a{
+    width: 100%;         /* Ajustar el ancho al 100% del contenedor padre */
+    max-width: 4000px;    /* Máximo ancho del campo de entrada */
+    height: 25px;        /* Altura del campo de entrada */
+    padding: 50px;       /* Espacio interno */
+    font-size: 150px;     /* Tamaño de la fuente */
+    border: none; /* Borde gris claro */
+    border-radius: 80px; /* Bordes redondeados */
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(203, 102, 19);
+    text-align: center;
+
+}
+.btn1 {
+    width: 100%;
+    background: #9e2a8d;
+    border: none;
+    padding: 100px;
+    
+    text-align: center;
+    
+    font-size: 1px;
+    color: #f1f1f1;
+    border-radius: 1px;
+    color: antiquewhite;
+    
+        
+}
+
+

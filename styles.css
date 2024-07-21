@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+.header{
+    font-size: 189px;
+}
+.nav-item, .cold-md-6 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(128, 226, 43);
+   
+    margin: 1%;
+    text-align: left;
+    
+}
+.salir, .a {
+    display: inline-block;   
+    font-size: 20px;
+    margin:    100px; width: 20px 30px;
+    
+    
+       
+}
+
